@@ -1,6 +1,7 @@
 ## Meu primeiro contato com a programação🚀
 
-Olá! Meu nome é Giovanna Arrais. Meu primeiro contato com o Front-End foi atráves da [Rocketseat](https://app.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&logout=true&to=%2F), e pude fazer este projeto.
+Olá! Meu nome é Giovanna Arrais. <br>
+Meu primeiro contato com o Front-End foi atráves da [Rocketseat](https://app.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&logout=true&to=%2F), e pude fazer este projeto.
 
 
 ## Habilidades utilizadas
